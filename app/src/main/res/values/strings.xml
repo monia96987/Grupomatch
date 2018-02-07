@@ -38,6 +38,7 @@
     <string name="czlonkowieText">Członkowie</string>
     <string name="zmiennaczlonek">Zmiennaczlonek</string>
     <string name="zmiennanotatka">Zmiennanotatka</string>
+    <string name="opuscBtn">Opuść grupę</string>
 
     //notatka
     <string name="zapiszBtn">Zapisz</string>
