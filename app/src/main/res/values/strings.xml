@@ -10,12 +10,12 @@
 
 
     //rejestracja1
-    <string name="imieText">Imię</string>
-    <string name="nazwiskoText">Nazwisko</string>
-    <string name="wydzialText">Wydział</string>
-    <string name="kierunekText">Kierunek</string>
-    <string name="rokText">Rok</string>
-    <string name="semestrText">Semestr</string>
+    <string name="imieText">Imię:</string>
+    <string name="nazwiskoText">Nazwisko:</string>
+    <string name="wydzialText">Wydział:</string>
+    <string name="kierunekText">Kierunek:</string>
+    <string name="rokText">Rok:</string>
+    <string name="semestrText">Semestr:</string>
     <string name="dalejBtn">Dalej</string>
 
     //rejestracja2
