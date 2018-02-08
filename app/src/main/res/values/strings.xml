@@ -72,7 +72,7 @@
 
 
     //tematmenu
-    <string name="dodajt">Dodaj do grupy</string>
+    <string name="dodajt">Wybierz temat</string>
     <string name="wroct">Wróć</string>
 
 </resources>
